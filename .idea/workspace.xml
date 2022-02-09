@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae9b492-6124-4cd6-8dbf-7cab4477b495" name="Changes" comment="chapter 10 finished" />
+    <list default="true" id="7ae9b492-6124-4cd6-8dbf-7cab4477b495" name="Changes" comment="chapter 4 finished with test script deleted" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +156,7 @@
       <workItem from="1644002007474" duration="6074000" />
       <workItem from="1644051813341" duration="13355000" />
       <workItem from="1644249898510" duration="4739000" />
-      <workItem from="1644418580750" duration="501000" />
+      <workItem from="1644418580750" duration="912000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 3.5 finished">
       <created>1643325857002</created>
@@ -221,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644279223931</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="chapter 3 finished with test script deleted">
+      <created>1644419175324</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644419175324</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chapter 4 finished with test script deleted">
+      <created>1644419492668</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644419492668</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +263,9 @@
     <MESSAGE value="chapter 8 finished" />
     <MESSAGE value="chapter 9 finished" />
     <MESSAGE value="chapter 10 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 10 finished" />
+    <MESSAGE value="chapter 3 finished with test script deleted" />
+    <MESSAGE value="chapter 4 finished with test script deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 4 finished with test script deleted" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/tango_with_django_project$Test__rango_tests_chapter5_Chapter5DatabaseConfigurationTests_test_gitignore_for_database.coverage" NAME="Test: rango.tests_chapter5.Chapter5DatabaseConfigurationTests.test_gitignore_for_database Coverage Results" MODIFIED="1643407970892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
